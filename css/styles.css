@@ -489,13 +489,27 @@ row-gap: 48px;
 color: #f4f4fd;
 }
 .footer-icons {
-    display: flex;
-    gap: 16px;
-    justify-content: center;    
+
+
 }
 
 .footer-icons-items:hover {
     background-color: #31d0aa;
+}
+
+.footer-text-container {
+}
+
+.social-icons-footer {
+}
+
+.social-icons-text {
+    font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+color: #fff;
 }
 
 /* footer end */
