@@ -521,11 +521,12 @@ color: #f4f4fd;
 .footer-icons {
     display: flex;
     gap: 16px;
-    justify-content: center;
+
 }
 
 .footer-container {
     display: flex;
+    align-items: baseline;
 }
 
 .footer-icons-items:hover {
@@ -533,10 +534,10 @@ color: #f4f4fd;
 }
 
 .footer-text-container {
+    margin-right: 120px
 }
 
 .social-icons-footer {
-    padding-left: 120px;
 }
 
 .social-icons-text {
@@ -545,9 +546,9 @@ font-weight: 500;
 font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
-color: #fff;
+color: #FFFFFF;
 display: flex;
-padding-bottom: 16px;
+margin-bottom: 16px;
 }
 
 /* footer end */
