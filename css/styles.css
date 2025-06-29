@@ -476,6 +476,10 @@ row-gap: 48px;
     transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+.portfolio-animations p {
+    transform: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
 .portfolio-list-items-photo:hover .overlay {
     transform: translateY(0);
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
